@@ -1,4 +1,4 @@
-module goespn
+module github.com/nasrul21/goespn
 
 go 1.13
 
