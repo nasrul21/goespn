@@ -1,4 +1,4 @@
-package espn_test
+package goespn_test
 
 // import (
 // 	"encoding/json"

@@ -1,4 +1,4 @@
-module espn
+module goespn
 
 go 1.13
 

@@ -1,4 +1,4 @@
-# go-espn
+# goespn
 Golang ESPN API Client Library
 
 ## Todo

@@ -1,4 +1,4 @@
-package espn
+package goespn
 
 import (
 	"encoding/json"
